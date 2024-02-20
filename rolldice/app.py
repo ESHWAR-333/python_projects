@@ -39,7 +39,7 @@ def main():
             print("| 0     0 |")
             print("| 0     0 |")
             print("===========")
-        print('Enter the Y to roll the dice')
+        print('Press Y to roll the dice)
         X=input()
 if __name__=='__main__':
     main()
