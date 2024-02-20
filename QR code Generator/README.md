@@ -1,7 +1,9 @@
 # QR Code Generator
+![](https://github.com/ESHWAR-333/python_projects/blob/main/QR%20code%20Generator/images/tkinter)
+
 ![](https://github.com/ESHWAR-333/python_projects/blob/main/QR%20code%20Generator/images/code.png)
 
-![](https://github.com/vivekthedev/python-mini-project/blob/main/IMG/vivekScreen02.png)
+
 
 ## 🛠️ Description
 Generate QR Code with Tkinter GUI and save the QR Code into the Local Directory (cwd).
