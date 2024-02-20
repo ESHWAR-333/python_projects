@@ -1,5 +1,5 @@
 # QR Code Generator
-![](https://github.com/vivekthedev/python-mini-project/blob/main/IMG/vivekScreen01.png)
+![](https://github.com/ESHWAR-333/python_projects/blob/main/QR%20code%20Generator/images/code.png)
 
 ![](https://github.com/vivekthedev/python-mini-project/blob/main/IMG/vivekScreen02.png)
 
