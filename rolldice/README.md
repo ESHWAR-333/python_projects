@@ -21,7 +21,5 @@ python app.py
 
 ## 📺 Demo
 <p align="center">
-<img src="https://github.com/nduongthucanh/python-mini-project/blob/main/IMG/ds.gif" width=70% height=70%>
+<img src="https://github.com/ESHWAR-333/python_projects/blob/main/rolldice/screenshot" width=70% height=70%>
 
-## 🤖 Author
-[Eshwar]
